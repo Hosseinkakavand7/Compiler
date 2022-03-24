@@ -1,0 +1,7 @@
+int main ()
+{
+    while(i<10)
+    {
+    a=i;
+   }
+}
